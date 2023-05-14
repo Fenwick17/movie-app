@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.page-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
