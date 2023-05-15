@@ -8,6 +8,5 @@ export default async function handle(req: any, res: any) {
     },
   });
 
-  console.log('RESULT ', result);
   res.json(result);
 }
